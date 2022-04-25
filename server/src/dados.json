@@ -1,0 +1,15 @@
+{
+    "2022-04-12": {
+        "data": "2022-04-12",
+        "tasks_jira": [
+            "1234",
+            "4444"
+        ],
+        "relatorio": "Durante a manhã, por estar sem tarefas designadas, trabalhei no meu projeto de relatório. Próximo ao horário de almoço, participei de uma reunião com Falcão e Felipe e nos foram designadas 2 tarefas: Deschumbar o normalized body da Pottencial no *arquivo do fastAPI(SQUAD-XXXX), e criar um *novo arquivo semelhante aos da Pottencial e da Kovr(SQUAD-XXXX), porém a nova seria da BMG. Durante a tarde, participei de uma call com Falcão, Alê, e Felipe e recebi a tarefa de documentar o erro que dava ao bater na url encontrada no *yaml (contido na task SQUAD-XXXX).",
+        "arquivos_usados": {
+            "arquivo_do_fastAPI": "path",
+            "novo_arquivo": "path",
+            "yaml": "path"
+        }
+    }
+}
